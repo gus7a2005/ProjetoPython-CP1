@@ -7,7 +7,7 @@ A aplicação feita foi desenvolvida através do Python, atrelando estruturas po
 
 [Link do Vídeo explicativo](https://www.youtube.com/watch?v=SjJNHGwZoJ0)
 
-[Link do Diagrama em Blocos descrevendo o funcionamento](file:///C:/Users/Gustavo%20Coelho/Downloads/Fluxograma%20f%C3%B3rmula%20E.pdf) 
+
 
 -----------
 
